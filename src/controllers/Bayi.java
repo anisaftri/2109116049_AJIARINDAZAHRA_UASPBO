@@ -8,7 +8,7 @@ public class Bayi extends Database {
     // Constructor untuk Connect ke Database
     public Bayi() throws ClassNotFoundException, SQLException {
         super();
-        //super asalnya dri mana 
+
     }
 
     // Create
